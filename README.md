@@ -36,6 +36,8 @@ below is an example:
 }
 ```
 the download_url can be used with an api call to get the file contents
+or
+use https://raw.githubusercontent.com/scuba75/swgoh-gamedata/main/FILE_NAME where FILE_NAME is the file you want to pull
 
 Please read about the rate limits here:
 https://docs.github.com/en/rest/overview/resources-in-the-rest-api?apiVersion=2022-11-28#rate-limiting
